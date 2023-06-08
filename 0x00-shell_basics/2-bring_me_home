@@ -1,2 +1,2 @@
-cd ..
-cd home
+#!/bin/bash
+/tmp/home 
