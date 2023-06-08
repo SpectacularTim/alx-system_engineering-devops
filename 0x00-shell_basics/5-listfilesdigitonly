@@ -1,9 +1,2 @@
-total 20
-drwxr-xr-x 2 root 122 Jun  7 21:31 .
-drwxr-xr-x 4 root  43 Jun  7 21:09 ..
--rw-r--r-- 1 root  54 Jun  7 21:11 0-current_working_directory
--rw-r--r-- 1 root  28 Jun  7 21:19 1-listit
--rw-r--r-- 1 root  14 Jun  7 21:22 2-bring_me_home
--rw-r--r-- 1 root 231 Jun  7 21:30 3-listfiles
--rw-r--r-- 1 root 375 Jun  7 21:36 4-listmorefiles
--rw-r--r-- 1 root 191 Jun  7 21:44 5-listfilesdigitonly
+#!/bin/bash
+ls -l -g -a 
