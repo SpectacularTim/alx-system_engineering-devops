@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "git, github java java create create"|tr -s ' ' '\n'|sort|uniq -u 
+sort|uniq -u 
