@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -empty -printf "%P"  -find . -type d -empty -printf "%P" 
+find . -type d,f -empty -printf "%P/n" 
